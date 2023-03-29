@@ -1,8 +1,5 @@
 .container {
   display: flex;
   padding: 0;
-}
-
-.others {
-  flex: 4;
+  margin: 10px 0;
 }
