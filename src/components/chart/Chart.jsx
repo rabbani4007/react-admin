@@ -52,7 +52,7 @@ const data = [
     name: "Jul",
     "Active Users": 3490,
     pv: 4300,
-    amt: 2100,
+    amt: 2300,
   },
 ];
 export default function Chart() {
